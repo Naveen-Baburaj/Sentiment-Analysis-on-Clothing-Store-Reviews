@@ -4,6 +4,8 @@
 
 This project analyzes customer sentiment on a variety of clothing products to help a fashion retailer understand customer opinions and improve product quality and customer experience. 
 
+![Fashion Image](https://raw.githubusercontent.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews/main/Fashion.jpg)
+
 ## Data Description
 
 The dataset consists of customer reviews of a clothing store categorised by product types, including **Bottoms**, **Dresses**, **Intimate Wear**, **Jackets**, and **Tops**. 
