@@ -29,7 +29,7 @@ The dataset consists of customer reviews of a clothing store categorised by prod
 3. **Visualization**:
    - Bar charts and word clouds are generated to visualize the sentiment distribution and common descriptive words.
 
-Run the Jupyter notebook (`sentiment_analysis.ipynb`) to execute the analysis and generate visualizations.
+View and run the Jupyter notebook here: [Sentiment Analysis Notebook](https://github.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews/blob/main/Sentiment%20Analysis.ipynb).
 
 ## Visualizations
 
