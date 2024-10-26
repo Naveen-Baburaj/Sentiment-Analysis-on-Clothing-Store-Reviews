@@ -8,7 +8,7 @@ This project analyzes customer sentiment on a variety of clothing products to he
 
 ## Data Description
 
-The dataset consists of customer reviews of a clothing store categorised by product types, including **Bottoms**, **Dresses**, **Intimate Wear**, **Jackets**, and **Tops**. 
+The dataset consists of customer reviews of a clothing store categorised by product types, including **Bottoms**, **Dresses**, **Intimate**, **Jackets**, and **Tops**. 
 
 ## Project Features
 
@@ -37,10 +37,10 @@ View and run the Jupyter notebook here: [Sentiment Analysis Notebook](https://gi
 
 - **Sentiment Distribution Bar Chart**: Displays the counts of positive, neutral, and negative sentiments for each product category.
 - **Word Clouds**: Highlights common adjectives in positive, neutral, and negative reviews.
-  
-The visualizations are saved in the project directory and displayed within the notebook for ease of reference.
 
 ## Conclusion
+
+![Result Image](https://raw.githubusercontent.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews/main/Result.jpeg)
 
 The analysis reveals:
 - High customer satisfaction across all product categories, especially for **Bottoms** and **Jackets**.
